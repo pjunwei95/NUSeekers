@@ -23,4 +23,3 @@ Please refer to [the documentation](http://telescope.readme.io/docs) for more in
 - [Roadmap](https://trello.com/b/oLMMqjVL/telescope-roadmap)
 - [Slack](http://slack.telescopeapp.org/)
 - [Meta](http://meta.telescopeapp.org/) – Discussions about Telescope
-test
